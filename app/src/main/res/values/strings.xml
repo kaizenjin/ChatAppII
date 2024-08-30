@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatAppII</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue" />
+    <string name="email" />
+    <string name="password">password</string>
+    <string name="sigm_in">sigm_in</string>
+    <string name="sign_in">sign in</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">add_image</string>
+    <string name="name">name</string>
+    <string name="login">login to continue</string>
+    <string name="sign_up">Sign Up\n</string>
+    <string name="create_account">Create Account</string>
+    <string name="select_user">select user</string>
+    <string name="online">Online</string>
+</resources>
